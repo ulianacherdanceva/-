@@ -22,15 +22,8 @@
   left: -83px;
 }
 
-.group .overlap-group {
-  position: relative;
-  width: 1700px;
-  height: 700px;
-  top: 34px;
-  left: 120px;
-  border-radius: 70px;
-  background: linear-gradient(180deg, rgb(46, 43, 208) 0%, rgb(120.35, 118.1, 242.25) 100%);
-}
+
+
 
 .group .text-wrapper {
   position: absolute;
@@ -692,6 +685,7 @@
   top: 998px;
   left: 1020px;
   object-fit: cover;
+  border-radius: 70px;
 }
 
 .group .element-17 {
@@ -701,6 +695,7 @@
   top: 499px;
   left: 0;
   object-fit: cover;
+  border-radius: 70px;
 }
 
 .group .element-18 {
@@ -848,6 +843,7 @@
   top: 0;
   left: 1080px;
   object-fit: cover;
+  border-radius: 70px;
 }
 
 .group .overlap-wrapper {
@@ -871,6 +867,7 @@
   object-fit: cover;
   position: absolute;
   left: 0;
+  
 }
 
 .group .title {
@@ -1058,6 +1055,10 @@
   position: absolute;
   top: 50px;
   left: 705px;
+
+               
+
+  
 }
 
 .group .element-23 {
